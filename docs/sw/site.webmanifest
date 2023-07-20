@@ -1,0 +1,15 @@
+{
+    "name": "精益副业",
+    "short_name": "精益副业",
+    "icons": [
+      {
+        "src": "/favicon.png",
+        "sizes": "196x196",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "theme_color": "#fcfaf2",
+    "background_color": "#fcfaf2",
+    "display": "standalone"
+  }
